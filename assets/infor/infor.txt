@@ -1,0 +1,204 @@
+=========================================================================
+			About Me
+=========================================================================
+
+
+
+Hello! I’m [Your Name], a dedicated and results-driven Network Engineer with over [X] years of experience specializing in designing, implementing, and troubleshooting complex network systems. Based in [Your Location], I have a proven track record of boosting system efficiency and productivity through robust network solutions.
+
+My Journey
+I graduated with a degree in [Your Degree] from [Your University] and have since gained valuable industry experience working with startups, mid-sized businesses, and large enterprises. Over the years, I've developed a deep understanding of network infrastructure and have become proficient in technologies such as Cisco, Juniper, and VMware.
+
+My Expertise
+Network Design & Implementation: Skillfully design scalable network architectures that align with business needs and ensure seamless communication across platforms.
+
+Troubleshooting & Support: Expert in diagnosing network issues quickly and efficiently, minimizing downtime and maintaining business continuity.
+
+Security Management: Implement robust security measures, including firewalls, anti-virus solutions, and intrusion detection systems to safeguard data and network infrastructure.
+
+Project Management: Experienced in leading projects from conception through to completion, ensuring that all aspects of network solutions are delivered on time and within budget.
+
+My Philosophy
+I believe in a proactive approach to network management, where ongoing maintenance and continuous improvement are key to achieving optimal performance and security. My goal is to provide reliable and innovative network solutions that enable businesses to grow and adapt to changing technological landscapes.
+
+Let’s Connect
+I am always interested in tackling new challenges and making lasting connections in the IT community. Whether you need a detailed analysis of your current network infrastructure or a completely new network design, I’m here to help. Let's connect to discuss how I can bring your network solutions to the next level.
+
+[Your Contact Information]
+
+LinkedIn: [Your LinkedIn Profile]
+Email: [Your Email Address]
+
+=========================================================================
+			education backgroung
+=========================================================================
+Example Resume Section: Education & Certifications
+Education
+Bachelor of Science in Computer Science
+University of California, Berkeley, CA
+Graduated: May 2020
+Specialization in Networking and Security
+
+Gained a solid foundation in data communication, network administration, and security protocols.
+Completed capstone project on "Designing Scalable Network Infrastructures with Enhanced Security Features."
+Certifications
+Cisco Certified Network Professional (CCNP)
+Cisco Systems, Inc.
+Certified: August 2021
+
+Specialized in routing and switching to improve network resiliency and security.
+CompTIA Network+
+CompTIA
+Certified: December 2020
+
+Validated understanding of network technologies and infrastructure, network troubleshooting, and network tools.
+
+Additional Tips for Networking Professionals
+
+Emphasize Practical Applications: In the education section, besides your degree, emphasize any practical applications of your learning such as projects or labs specifically related to networking. Mention any relevant coursework directly related to potential job requirements, like network security, system design, or TCP/IP protocols.
+
+Highlight Certifications: Certifications can be a key differentiator in the field of networking. Detail any certifications you have obtained that are relevant to the role you are applying for. This not only shows your commitment to your professional development but also your expertise in specific areas.
+
+Include Continuing Education: If you have taken part in workshops, seminars, or other training relevant to networking, include these. This shows you keep up-to-date with the latest technologies and best practices in your field.
+
+Showcase Awards and Honors: If you received any awards or recognition during your education, such as scholarships or dean's list honors, include these details as they enhance the credibility of your academic achievements.
+
+Professional Associations: Mention if you are a member of any professional associations like the IEEE (Institute of Electrical and Electronics Engineers) or the Network Professional Association (NPA). This can help show your active involvement and commitment to your profession.
+
+Technical Skills Section: Consider adding a separate section for technical skills where you can list specific networking technologies you are proficient with, such as Cisco systems, Juniper networks, WAN/LAN, VoIP, etc. This can quickly inform potential employers about your capabilities.
+
+==========================================================================================
+When writing the education section of your resume, it’s important to present your academic background clearly and concisely, while emphasizing any aspects that are particularly relevant to the job you're applying for. Here’s a general structure and some examples to help you craft an effective education section:
+
+Basic Structure
+Degree and Major: Start with your highest degree first. Include the type of degree (e.g., Bachelor of Science, Master of Arts) followed by the major.
+
+University Name: Mention the name of the educational institution where you obtained your degree.
+
+Graduation Date: Include the month and year of your graduation. If you are currently enrolled, you can state your expected graduation date.
+
+Location: Optional, but you can include the city and state of the university.
+Relevant Coursework, Honors, and Achievements: If applicable, list key courses, academic honors, or scholarships that are relevant to the job you are applying for.
+
+====================================================
+Example
+=====================================================
+
+**Master of Science in Network Engineering**  
+Stanford University, Stanford, CA  
+Graduated May 2023
+
+- Specialized in advanced network design and cybersecurity.
+- Completed a thesis on "Innovative Approaches to Network Security in IoT Environments."
+- Graduated Summa Cum Laude.
+
+
+========================================================================
+		Social Media link
+========================================================================
+https://www.facebook.com/thierrydesigner03/
+
+https://www.instagram.com/thierrydesigner03/
+
+https://github.com/HAGENIMANA-Thierry
+
+mailto:thierryhagenimana837@gmail.com
+
+============================================================================
+			Contact Me
+=========================================================================
+====================================================================
+				html
+====================================================================
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Me</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="contact-form">
+        <h2>Contact Me</h2>
+        <form action="sendmail.php" method="POST">
+            <input type="text" name="name" placeholder="Your Name" required>
+            <input type="email" name="email" placeholder="Your Email" required>
+            <textarea name="message" placeholder="Your Message" required></textarea>
+            <button type="submit">Send Message</button>
+        </form>
+    </div>
+</body>
+</html>
+====================================================================================
+				css
+====================================================================================
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background: #f4f4f4;
+}
+
+.contact-form {
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+input[type="text"],
+input[type="email"],
+textarea {
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-sizing: border-box; /* Makes sure padding doesn't affect width */
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    background: #333;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #555;
+}
+=================================================================================
+					php
+=================================================================================
+<?php
+if ($_SERVER["REQUEST_METHOD"] == "POST") {
+    $name = htmlspecialchars(stripslashes(trim($_POST['name'])));
+    $email = htmlspecialchars(stripslashes(trim($_POST['email'])));
+    $message = htmlspecialchars(stripslashes(trim($_POST['message'])));
+    
+    if (!filter_var($email, FILTER_VALIDATE_EMAIL)) {
+        echo "Invalid email format";
+        exit;
+    }
+
+    $to = 'your_email@example.com'; // Change this to your email address
+    $subject = 'Message from Website';
+    $body = "You have received a new message from $name\n\nEmail: $email\n\nMessage:\n$message";
+    $headers = "From: $email";
+
+    if (mail($to, $subject, $body, $headers)) {
+        echo "Message sent successfully!";
+    } else {
+        echo "Failed to send the message.";
+    }
+}
+?>
+
